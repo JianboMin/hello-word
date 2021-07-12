@@ -13,9 +13,9 @@
 
 这个时候多线程就开始粉墨登场了。
 
-1. #### [线程简介]()
+1. #### [线程简介](https://github.com/JianboMin/hello-word/blob/main/java/阶段一/多线程/线程简介.md)
 
-2. #### 线程实现（重点）
+2. #### [线程实现（重点）](https://github.com/JianboMin/hello-word/blob/main/java/阶段一/多线程/线程的创建.md)
 
 3. #### 线程状态
 
