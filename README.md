@@ -1,6 +1,6 @@
 # java
 
-## MarkDown
+## 工具
 
  [MarkDown学习](https://github.com/JianboMin/hello-word/blob/main/study/WorkDown.md)
 
