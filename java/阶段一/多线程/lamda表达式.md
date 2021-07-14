@@ -2,7 +2,7 @@
 
 - lamda表达式是为了简化创建函数式接口实现类
 
-- 理解Functional Interface（函数式接口）是学历Java8 lamda表达式的关键
+- 理解Functional Interface（函数式接口）是学好Java8 lamda表达式的关键
 
 - 函数式接口定义：
 
