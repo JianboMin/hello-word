@@ -12,6 +12,7 @@
 2. #### [线程实现（重点）](https://github.com/JianboMin/hello-word/blob/main/java/阶段一/多线程/线程实现（重点）.md)
 
 - [静态代理模式](https://github.com/JianboMin/hello-world/blob/main/java/阶段一/多线程/静态代理模式.md)
+- [lamda表达式](https://github.com/JianboMin/hello-world/blob/main/java/阶段一/多线程/lamda表达式.md)
 
 3. #### 线程状态
 
