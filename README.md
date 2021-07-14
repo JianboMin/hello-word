@@ -16,6 +16,8 @@
 
 3. #### 线程状态
 
+- [线程停止](https://github.com/JianboMin/hello-world/blob/main/java/阶段一/多线程/线程停止.md)
+
 4. #### 线程同步（重点）
 
 5. #### 线程通信问题
